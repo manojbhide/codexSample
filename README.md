@@ -1,3 +1,4 @@
 # codexSample
 Sample AI workout using Codex
-Updating file and pusing to main
+Updating file and pushing to main
+Another Update
